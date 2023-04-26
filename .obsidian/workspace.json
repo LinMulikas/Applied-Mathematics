@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "85de047b4ff1f040",
+    "type": "split",
+    "children": [
+      {
+        "id": "478201e7b6fccab7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aaffa9cc9380bf8f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "57bc9095256b1fa6",
+    "type": "split",
+    "children": [
+      {
+        "id": "944bc2ff81e59f64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39bdb3578590ed08",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "68317f08b78b8984",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6fc4b5a0fa71bdee",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "70053b566c4cd270",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e3928f0accd570c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa9a53557b167b8e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5480907f4135ac1c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ce5da2f07f6957d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f9cb2a626d571012",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "aaffa9cc9380bf8f",
+  "lastOpenFiles": [
+    "Mathematics/Geometry/Differential Geometry.md",
+    "Mathematics/Computation/Optimization.md",
+    "Mathematics/Computation/Linear Algebra.md",
+    "Mathematics/Computation/Numerical Analysis.md",
+    "Applied Mathematics.md",
+    "Statistics/Stochastic",
+    "Statistics/Propability",
+    "Statistics/Statistics.md",
+    "Mathematics/Mathematics.md",
+    "__Appendix",
+    "Computer Sciecne.md",
+    "Computer Science/Computer Science.md",
+    "Computer Science/Lang/Lang.md",
+    "Computer Science/Lang/Julia/julia-1.8.5的副本.pdf",
+    "Computer Science/Lang/Python",
+    "Computer Science/Algorithm/Classical",
+    "Computer Science/Algorithm/Graph",
+    "Computer Science/Lang/Julia",
+    "Computer Science/Tools/Tools.md",
+    "Computer Science/Libraries/pandas.md",
+    "Computer Science/Libraries/Julia",
+    "Computer Science/Libraries/Python",
+    "Mathematics/Analysis/Mathematical Analysis.md",
+    "Mathematics/Analysis/Functional Analysis.md",
+    "Mathematics/Algebra/Linear Algebra.md",
+    "Mathematics/Analysis/Matrix Analysis.md",
+    "Mathematics/Analysis/Fourier Analysis.md",
+    "Mathematics/Algebra/Abstract Algebra.md"
+  ]
+}
