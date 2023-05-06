@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "478201e7b6fccab7",
+        "id": "a57cc63de573ead8",
         "type": "tabs",
         "children": [
           {
-            "id": "aaffa9cc9380bf8f",
+            "id": "b24b650355934590",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "ADAA/ADAA.pdf"
+              }
             }
           }
         ]
@@ -65,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "70053b566c4cd270",
@@ -81,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ADAA/ADAA.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ADAA/ADAA.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ADAA/ADAA.pdf"
+              }
             }
           }
         ]
@@ -138,35 +145,42 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "aaffa9cc9380bf8f",
+  "active": "39bdb3578590ed08",
   "lastOpenFiles": [
+    "Optimization/Lectures on Convex Optimization.pdf",
+    "Optimization/Optimization.md",
+    "Optimization/(Springer Optimization and Its Applications 22) Urmila Diwekar (auth.) - Introduction to applied optimization-Springer US (2008).pdf",
+    "Mathematics/Mathematics.md",
+    "Computer Science/Computer Science.md",
+    "Optimization",
+    "Applied Mathematics.md",
+    "ADAA/ADAA.pdf",
+    "ADAA",
+    "PDE/3. Elementary Methods/(3. Elementary Methods).md",
+    "PDE/PDE.md",
+    "PDE/3. Elementary Methods/Characteristic Equation.md",
+    "Basic Analysis/Basic Analysis.md",
+    "Basic Algebra",
+    "Basic Analysis",
+    "PDE/3. Elementary Methods/Fourier Series.md",
+    "PDE/3. Elementary Methods/Integral Transformation.md",
+    "PDE/2. Fundamental of PDE",
+    "PDE/1. PDE models",
+    "PDE/3. Elementary Methods",
+    "动力系统/离散时间动力系统.md",
+    "动力系统/前向极限、后向极限.md",
+    "动力系统/迭代.md",
+    "动力系统/1. Basic Construction/1. Basic Construction.md",
     "Mathematics/Geometry/Differential Geometry.md",
     "Mathematics/Computation/Optimization.md",
     "Mathematics/Computation/Linear Algebra.md",
     "Mathematics/Computation/Numerical Analysis.md",
-    "Applied Mathematics.md",
-    "Statistics/Stochastic",
-    "Statistics/Propability",
     "Statistics/Statistics.md",
-    "Mathematics/Mathematics.md",
-    "__Appendix",
     "Computer Sciecne.md",
-    "Computer Science/Computer Science.md",
     "Computer Science/Lang/Lang.md",
-    "Computer Science/Lang/Julia/julia-1.8.5的副本.pdf",
-    "Computer Science/Lang/Python",
-    "Computer Science/Algorithm/Classical",
-    "Computer Science/Algorithm/Graph",
-    "Computer Science/Lang/Julia",
     "Computer Science/Tools/Tools.md",
     "Computer Science/Libraries/pandas.md",
-    "Computer Science/Libraries/Julia",
-    "Computer Science/Libraries/Python",
     "Mathematics/Analysis/Mathematical Analysis.md",
-    "Mathematics/Analysis/Functional Analysis.md",
-    "Mathematics/Algebra/Linear Algebra.md",
-    "Mathematics/Analysis/Matrix Analysis.md",
-    "Mathematics/Analysis/Fourier Analysis.md",
-    "Mathematics/Algebra/Abstract Algebra.md"
+    "Mathematics/Analysis/Functional Analysis.md"
   ]
 }
