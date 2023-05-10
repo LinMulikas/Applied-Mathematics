@@ -1,0 +1,1 @@
+A subset $K$ of a [[Metric Space]] is *compactness* if any [[Open Cover]] of $K$ has a [[Finite Subcover]].

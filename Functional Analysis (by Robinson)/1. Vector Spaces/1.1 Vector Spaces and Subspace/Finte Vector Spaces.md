@@ -1,0 +1,1 @@
+A [[Vector Space]] with [[Finite Dimension]] is called *finite vector space*.

@@ -1,0 +1,1 @@
+If $V$ has a finite [[Functional Analysis (by Robinson)/1. Vector Spaces/1.6 The existence of Hamel Bases/Basis]] with $n$ elements, then all the basis of $V$ has the same number $n$.

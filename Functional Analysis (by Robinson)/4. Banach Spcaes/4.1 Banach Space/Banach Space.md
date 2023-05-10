@@ -1,0 +1,1 @@
+A [[Complete]] [[Normed Space]] is called *banach space*.

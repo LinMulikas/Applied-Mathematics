@@ -1,0 +1,1 @@
+A [[Complete]] [[Inner-product Space]] is called *hilbert space*.

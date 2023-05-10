@@ -1,0 +1,1 @@
+线性常常代指某种和任意乘以数域上的数字有关的行为，比如 [[Linear Map]], [[Linear Span]], [[Linear Combination]] [[Linear Independent]].

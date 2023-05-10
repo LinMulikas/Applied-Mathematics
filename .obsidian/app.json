@@ -3,5 +3,7 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "__Appendix",
   "autoPairMarkdown": false,
-  "autoPairBrackets": false
+  "autoPairBrackets": false,
+  "alwaysUpdateLinks": true,
+  "vimMode": true
 }

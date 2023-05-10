@@ -1,0 +1,1 @@
+Adj. of [[Compactness]].

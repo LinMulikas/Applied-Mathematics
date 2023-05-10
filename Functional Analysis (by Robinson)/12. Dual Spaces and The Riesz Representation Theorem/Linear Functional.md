@@ -1,0 +1,1 @@
+The *linear functional* on a space $X$ is the [[Linear Map]] from $X$ to $\mathbb K$.

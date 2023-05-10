@@ -1,0 +1,1 @@
+Considering a subspace $E$ of [[Normed Space]] $X$, the *closed linear span* of $E$ is defined as the [[Closure]] of [[Linear Span]] of $E$, noted as $\mathrm{Clin}(E)$.

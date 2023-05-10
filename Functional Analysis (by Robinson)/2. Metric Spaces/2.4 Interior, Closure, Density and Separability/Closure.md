@@ -1,0 +1,1 @@
+A subset $A$ of a set $X$, the *closure* of $A$ is defined as the intersection of all set containing $A$.

@@ -4,20 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "a57cc63de573ead8",
+        "id": "bec5498dc4510c9c",
         "type": "tabs",
         "children": [
           {
-            "id": "b24b650355934590",
+            "id": "b3c626dbc4711c0c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ADAA/ADAA.pdf"
+                "file": "Differential Geometry/2. Surfaces/1-form.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -62,13 +65,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "2869082b5eb9fdd8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "70053b566c4cd270",
@@ -84,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ADAA/ADAA.pdf",
+                "file": "Differential Geometry/2. Surfaces/1-form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ADAA/ADAA.pdf",
+                "file": "Differential Geometry/2. Surfaces/1-form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ADAA/ADAA.pdf"
+                "file": "Differential Geometry/2. Surfaces/1-form.md"
               }
             }
           }
@@ -145,42 +155,43 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "39bdb3578590ed08",
+  "active": "b3c626dbc4711c0c",
   "lastOpenFiles": [
-    "Optimization/Lectures on Convex Optimization.pdf",
+    "TODO.md",
+    "test.tex",
+    "pages/contents.md",
+    "pages",
+    "journals",
+    "logseq/custom.css",
+    "logseq/config.edn",
+    "logseq",
+    "Differential Geometry/Differential Geometry.md",
+    "Differential Geometry/2. Surfaces.md",
+    "Basic Algebra/2. Vector Spaces Over Number Field/基变换小结.md",
+    "Differential Geometry/2. Surfaces/1-form.md",
+    "Basic Algebra/Basic Algebra.md",
+    "Basic Algebra/2. Vector Spaces Over Number Field",
+    "Differential Geometry/1. Curves/1. Curves.md",
+    "Differential Geometry/1. Curves",
+    "Differential Geometry",
+    "未命名.md",
+    "Basic Analysis/Basic Analysis.md",
+    "Basic Analysis/Part I One real Variable Calculus/1. Real Number Theory, Sequence, Continuity.md",
+    "Basic Analysis/Part I One real Variable Calculus/limsup.md",
+    "Basic Analysis/Part I One real Variable Calculus/Monotone.md",
+    "Basic Analysis/Part I One real Variable Calculus/Interval.md",
+    "Basic Analysis/Part I One real Variable Calculus/Real Number.md",
+    "Basic Analysis/Part I One real Variable Calculus/Theorem 1.1 Least Upper Bound.md",
+    "Basic Analysis/Part I One real Variable Calculus/Corollary 1.2 Greatest Lower Bound.md",
+    "Basic Analysis/Part I One real Variable Calculus/Bounded.md",
+    "Basic Analysis/Part I One real Variable Calculus/Lower Bound.md",
+    "Basic Analysis/Part I One real Variable Calculus/Upper Bound.md",
+    "Basic Analysis/Part II aaaa",
     "Optimization/Optimization.md",
-    "Optimization/(Springer Optimization and Its Applications 22) Urmila Diwekar (auth.) - Introduction to applied optimization-Springer US (2008).pdf",
     "Mathematics/Mathematics.md",
     "Computer Science/Computer Science.md",
-    "Optimization",
     "Applied Mathematics.md",
-    "ADAA/ADAA.pdf",
-    "ADAA",
     "PDE/3. Elementary Methods/(3. Elementary Methods).md",
-    "PDE/PDE.md",
-    "PDE/3. Elementary Methods/Characteristic Equation.md",
-    "Basic Analysis/Basic Analysis.md",
-    "Basic Algebra",
-    "Basic Analysis",
-    "PDE/3. Elementary Methods/Fourier Series.md",
-    "PDE/3. Elementary Methods/Integral Transformation.md",
-    "PDE/2. Fundamental of PDE",
-    "PDE/1. PDE models",
-    "PDE/3. Elementary Methods",
-    "动力系统/离散时间动力系统.md",
-    "动力系统/前向极限、后向极限.md",
-    "动力系统/迭代.md",
-    "动力系统/1. Basic Construction/1. Basic Construction.md",
-    "Mathematics/Geometry/Differential Geometry.md",
-    "Mathematics/Computation/Optimization.md",
-    "Mathematics/Computation/Linear Algebra.md",
-    "Mathematics/Computation/Numerical Analysis.md",
-    "Statistics/Statistics.md",
-    "Computer Sciecne.md",
-    "Computer Science/Lang/Lang.md",
-    "Computer Science/Tools/Tools.md",
-    "Computer Science/Libraries/pandas.md",
-    "Mathematics/Analysis/Mathematical Analysis.md",
-    "Mathematics/Analysis/Functional Analysis.md"
+    "PDE/PDE.md"
   ]
 }

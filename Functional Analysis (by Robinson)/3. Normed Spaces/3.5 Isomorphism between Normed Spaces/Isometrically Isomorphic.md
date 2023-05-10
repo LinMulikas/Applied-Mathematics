@@ -1,0 +1,1 @@
+If the [[Isomorphism in Normed Space]] is also [[Isometric]], the corresponding two [[Normed Space]] is called *isometrically isomorphic*.

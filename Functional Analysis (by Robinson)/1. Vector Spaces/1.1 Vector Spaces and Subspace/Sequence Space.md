@@ -1,0 +1,1 @@
+The simplified name of [[p-th Power Summable Sequence Space]] in the category of [[Vector Space]] or [[Finite Lp Norm Sequence Space]] in the category of [[Normed Space]].

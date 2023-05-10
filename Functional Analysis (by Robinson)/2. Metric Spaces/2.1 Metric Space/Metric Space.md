@@ -1,0 +1,1 @@
+A set $X$, combined with a [[Metric]] on it, is called a *metric space*.

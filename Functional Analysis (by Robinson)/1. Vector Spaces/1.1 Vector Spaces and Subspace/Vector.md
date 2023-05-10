@@ -1,0 +1,1 @@
+The elements in [[Vector Space]] is called *vector*.

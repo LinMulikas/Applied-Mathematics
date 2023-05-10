@@ -1,0 +1,1 @@
+A [[Vector Space]] with [[Norm]] [[Construction]] is called [[Normed Space]].

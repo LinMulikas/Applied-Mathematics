@@ -1,0 +1,1 @@
+If $V$ is a [[Vector Space]] with finite [[Functional Analysis (by Robinson)/1. Vector Spaces/1.6 The existence of Hamel Bases/Basis]], the *dimension* of $V$ is defined as the number of elements of any [[Functional Analysis (by Robinson)/1. Vector Spaces/1.6 The existence of Hamel Bases/Basis]] of $V$. And $V$ is called as [[Finite Dimension]]

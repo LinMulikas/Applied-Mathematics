@@ -1,0 +1,1 @@
+A [[Normed Space]] with the [[Lp Norm]] is called *Lp Normed Space*.

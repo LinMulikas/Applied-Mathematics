@@ -1,0 +1,1 @@
+The [[Sequence Space]] under the case  $p = \infty$, in the concept [[p-th Power Summable Sequence Space]] of [[Vector Space]] or [[Lp Normed Space]] of [[Normed Space]].

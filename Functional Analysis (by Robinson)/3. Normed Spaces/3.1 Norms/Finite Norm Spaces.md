@@ -1,0 +1,1 @@
+We call a [[Finite Dimension]] [[Equivalent Norms]] as [[Finite Norm Spaces]].

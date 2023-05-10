@@ -1,0 +1,1 @@
+A [[Vector Space]] is *finite dimension* if it has a [[Functional Analysis (by Robinson)/1. Vector Spaces/1.6 The existence of Hamel Bases/Basis]].

@@ -1,0 +1,1 @@
+If $E \subset V$ is a *maximal* [[Linearly Independent]] set, then it's a [[Functional Analysis (by Robinson)/1. Vector Spaces/1.6 The existence of Hamel Bases/Basis]] of $V$.

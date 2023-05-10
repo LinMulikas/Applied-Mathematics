@@ -1,0 +1,1 @@
+代数结构上的某种 module, 但是在本书中指 over field，尤其是 R, C 上的，自带 [[Norm]] 结构。

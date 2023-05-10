@@ -1,0 +1,1 @@
+*Hamel basis* is just the formal name of the [[Basis]] with 

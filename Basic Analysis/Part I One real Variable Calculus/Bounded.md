@@ -1,0 +1,1 @@
+A set has both [[Upper Bound]] and [[Lower Bound]] is called *bounded*.

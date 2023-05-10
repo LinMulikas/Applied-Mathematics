@@ -1,0 +1,1 @@
+A subset $A$ of a set $X$ is *dense*, iff its [[Closure]] $\bar A = X$.
