@@ -1,0 +1,1 @@
+Assume $\mathcal{P}$ is a [[Partially Ordered Set]]. If any [[Chain]] ([[Totally Ordered subset]]) of $\mathcal{P}$ has at an upper bounded, then $\mathcal{P}$ has at least one maximal element. 
