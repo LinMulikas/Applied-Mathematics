@@ -1,2 +1,7 @@
 # Applied Mathematics
- The knowledge about applied mathematics.
+
+# Mathematics
+
+
+# Computer Science
+[[Computer Science]]
