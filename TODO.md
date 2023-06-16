@@ -1,17 +1,11 @@
 # TODOLIST
 - [TODOLIST](#todolist)
-    - [Tools](#tools)
-    - [](#)
+- [Schedule](#schedule)
+- [Self](#self)
 
 
 
-------
 
-## Tools
+# Schedule
 
-- [ ] The snippets of .md file.
-- [ ] Foam.
-
-
-
-##
+# Self

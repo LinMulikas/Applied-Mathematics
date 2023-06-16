@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "53eff4afda9d769f",
+        "id": "5a9dddd651d75651",
         "type": "tabs",
         "children": [
           {
-            "id": "df5eeaa85c308fe1",
+            "id": "5fc35852dbdb689f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -147,8 +147,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "39bdb3578590ed08",
+  "active": "5fc35852dbdb689f",
   "lastOpenFiles": [
+    "Functional Analysis (by Robinson)/3. Normed Spaces/(3. Normed Spaces).md",
+    "Functional Analysis (by Robinson)/3. Normed Spaces/3.6 Separability of Normed Spaces/Separable Normed Space.md",
+    "Functional Analysis (by Robinson)/3. Normed Spaces/3.6 Separability of Normed Spaces/(Lemma) Condition for Separable Normed Space.md",
+    "Functional Analysis (by Robinson)/1. Vector Spaces/1.1 Vector Spaces and Subspace/Linearity.md",
+    "Functional Analysis (by Robinson)/3. Normed Spaces/3.6 Separability of Normed Spaces/Countable.md",
+    "Functional Analysis (by Robinson)/3. Normed Spaces/3.6 Separability of Normed Spaces/Separable.md",
+    "Functional Analysis (by Robinson)/1. Vector Spaces/1.2 Linear Independent and Bases/Basis.md",
+    "Functional Analysis (by Robinson)/(Functional Analysis).md",
     "py.py",
     "Statistics",
     "Propability",
@@ -170,20 +178,12 @@
     "Mathematics",
     "Computer Science/Library-Documents/Python",
     "Computer Science/Library-Documents/Julia",
-    "Computer Science/Library-Documents",
     "Computer Science/Tools/Tools.md",
     "Computer Science/Lang/Lang.md",
     "Computer Science/Computer Science.md",
     "Differential Geometry/2. Surfaces/2-form.md",
     "Differential Geometry/Differential Geometry.md",
     "Differential Geometry/(Differential Geometry).md",
-    "Mathematics/Geometry/(Differential Geometry).md",
-    "Differential Geometry/1. Curves/(1. Curves).md",
-    "Differential Geometry/1. Curves.md",
-    "Differential Geometry/2. Surfaces.md",
-    "Differential Geometry/2. Surfaces/(2. Surfaces).md",
-    "Functional Analysis (by Robinson)/12. Dual Spaces and The Riesz Representation Theorem/(12. Dual Spaces and the Riesz Representation Theorem).md",
-    "Functional Analysis (by Robinson)/(Functional Analysis).md",
-    "Functional Analysis (by Robinson)/12. Dual Spaces and The Riesz Representation Theorem/Riesz Map.md"
+    "Mathematics/Geometry/(Differential Geometry).md"
   ]
 }
