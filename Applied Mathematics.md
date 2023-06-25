@@ -6,7 +6,7 @@
 - [ ] Laplacian Multiplier Method.
 - [ ] Matrix Derivative. or Tensor analysis.
 
-
+[[Dijkstra Algorithm]]
 
 # 0. Courses.
 
